@@ -15,7 +15,7 @@ code {
   position:relative;
   top:100px;
   left:27%;
-  border:5px solid gold;
+  border:5px solid #fcc603;
   width:45%;
   height:600px;
   padding:50px;  
@@ -37,7 +37,7 @@ code {
   left:130px;
 }
 .add-question{
-  border:2px groove gold;
+  border:2px groove #fcc603;
   margin:30px 0px 0px 400px;
   padding:20px 0px 0px 0px;
   width:45%;
@@ -51,7 +51,7 @@ code {
   margin-left: 41%;
 }
 .leaderboard-info{
-  border:5px groove gold;
+  border:5px groove #fcc603;
   margin:0 auto;
   padding:20px 0px 0px 0px;
   width:60%;
@@ -60,12 +60,12 @@ code {
 }
 .leaderboard-img-div{
   float:left;
-  border-right:3px solid black;
+  border-right:3px solid #3d3d3a;
   padding-right: 20px;
   margin-right: 20px;
 }
 .leaderboard-img{
-border:5px groove black;
+border:5px groove #3d3d3a;
 }
 
 .leaderboard-text{
@@ -74,7 +74,7 @@ border:5px groove black;
   
 }
 .leaderboard-score{
-  border:3px solid black;
+  border:3px solid #3d3d3a;
   border-radius: 90px;
   padding:30px;
   display:inline-block;
@@ -85,7 +85,7 @@ border:5px groove black;
   bottom:0px;
   font-size:22px;
   font-weight: bold;
-  background-color: gold;
+  background-color: #fcc603;
 }
 .overview-ul{
   list-style-type:none;
@@ -96,7 +96,7 @@ border:5px groove black;
   margin:0px;
 }
 .overview-card{
-  border:2px groove gold;
+  border:2px groove #fcc603;
   margin:30px 0px 0px 0px;
   padding:20px 0px 0px 0px;
 
@@ -115,13 +115,13 @@ border:5px groove black;
   margin-bottom: 30px;
 }
 .pollview-card{
-  border:2px groove gold;
+  border:2px groove #fcc603;
   margin:0 auto;
   padding:20px 0px 0px 0px;
  width: 55%;
 }
 .pollview-img{
-  border:3px solid black;
+  border:3px solid #3d3d3a;
  
   
 }
@@ -145,8 +145,8 @@ border:5px groove black;
 }
 .btn{
   text-decoration: none;
-  color:white;
+  color:#f7f7f2;
 }
 .nav-link{
-  color:black;
+  color:#3d3d3a;
 }
