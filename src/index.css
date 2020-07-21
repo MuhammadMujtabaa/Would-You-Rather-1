@@ -18,45 +18,45 @@ code {
   top:100px;
   left:27%;
   border:5px solid #fcc603;
-  width:45%;
-  height:600px;
-  padding:50px;  
+  width:44%;
+  height:599px;
+  padding:49px;  
 }
 .login-image{
   position:relative;
-  left:100px;
-  height:230px;
+  left:99px;
+  height:229px;
   
 }
 .login-form-controls{
   position:relative;
-  top:50px;
+  top:49px;
 }
 .login-btn{
   position:relative;
-  top:50px;
-  width:200px;
+  top:49px;
+  width:199px;
   left:130px;
 }
 .add-question{
   border:2px groove #fcc603;
-  margin:30px 0px 0px 400px;
-  padding:20px 0px 0px 0px;
+  margin:29px 0px 0px 399px;
+  padding:19px 0px 0px 0px;
   width:45%;
-  height:390px;
+  height:389px;
 
 }
 .add-option{
   margin:10px 0px 50px 0px;
 }
 .add-btn{
-  margin-left: 41%;
+  margin-left: 40%;
 }
 .leaderboard-info{
   border:5px groove #fcc603;
   margin:0 auto;
   padding:20px 0px 0px 0px;
-  width:60%;
+  width:59%;
   height:auto;
   position:relative;
 }
@@ -71,17 +71,17 @@ border:5px groove #3d3d3a;
 }
 
 .leaderboard-text{
-  margin-left:150px;
-  margin-top:30px;
+  margin-left:149px;
+  margin-top:29px;
   
 }
 .leaderboard-score{
   border:3px solid #3d3d3a;
-  border-radius: 90px;
+  border-radius: 89px;
   padding:30px;
   display:inline-block;
-  width:130px;
-  height:130px;
+  width:129px;
+  height:129px;
   position:absolute;
   right:10px;
   bottom:0px;
@@ -105,15 +105,15 @@ border:5px groove #3d3d3a;
 }
 
 .overview-text{
-  margin-left:50px;
+  margin-left:49px;
   display:inline-block;
-  width:150px;
+  width:149px;
   white-space: nowrap;
   overflow: hidden;
   text-overflow: ellipsis; 
 }
 .overview-btn{
-  margin-left:45%;
+  margin-left:44%;
   margin-bottom: 30px;
 }
 .pollview-card{
